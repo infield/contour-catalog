@@ -41,15 +41,16 @@
     },
     {
       "attribution": "Tool data courtesy of SpeTool",
-      "bytes": 15453,
+      "bytes": 15491,
       "entries": 221,
       "id": "spetool",
+      "kind": "bits",
       "license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 SpeTool.",
-      "sha256": "e1d787efb499f474b912dc385839f0d7904b967c3ac50bfd3fc43c528123ae69",
+      "sha256": "4b1b4d3f526a2a41ec51d6d83f15e6d16d4f4b2210c45bb18e0708327f34d6aa",
       "source": "SpeTool-Fusion-360-Tool-File-Database-251015.tools",
-      "url": "packs/spetool-v1.json.gz",
+      "url": "packs/spetool-v2.json.gz",
       "vendor": "SpeTool",
-      "version": 1
+      "version": 2
     },
     {
       "attribution": "Tool data courtesy of Whiteside",
@@ -65,6 +66,6 @@
       "version": 1
     }
   ],
-  "updated": "2026-08-23T13:03:17Z",
+  "updated": "2026-08-23T21:55:34Z",
   "version": 1
 }
