@@ -1,0 +1,18 @@
+{
+  "packs" : [
+    {
+      "attribution" : "Tool data courtesy of SpeTool",
+      "bytes" : 15453,
+      "entries" : 221,
+      "id" : "spetool",
+      "license" : "Redistributed with the vendor's permission, for use in Contour. © SpeTool.",
+      "sha256" : "e1d787efb499f474b912dc385839f0d7904b967c3ac50bfd3fc43c528123ae69",
+      "source" : "SpeTool-Fusion-360-Tool-File-Database-251015.tools",
+      "url" : "packs\/spetool-v1.json.gz",
+      "vendor" : "SpeTool",
+      "version" : 1
+    }
+  ],
+  "updated" : "2026-08-22T14:10:19Z",
+  "version" : 1
+}
