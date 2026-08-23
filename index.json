@@ -27,6 +27,19 @@
       "version": 1
     },
     {
+      "attribution": "Work areas from manufacturer specifications (Sienci Labs, Onefinity).",
+      "bytes": 1106,
+      "entries": 12,
+      "id": "machines",
+      "kind": "machines",
+      "license": "Specifications compiled by Contour; trademarks belong to their owners.",
+      "sha256": "53f77c47084143026826ea5c40b4a6a6c42482abef9ca97562b217164bdfb1bd",
+      "source": "resources.sienci.com, onefinitycnc.com (2026-08-23)",
+      "url": "packs/machines-v1.json.gz",
+      "vendor": "Machines",
+      "version": 1
+    },
+    {
       "attribution": "Tool data courtesy of SpeTool",
       "bytes": 15453,
       "entries": 221,
@@ -52,6 +65,6 @@
       "version": 1
     }
   ],
-  "updated": "2026-08-23T12:39:58Z",
+  "updated": "2026-08-23T13:03:17Z",
   "version": 1
 }
