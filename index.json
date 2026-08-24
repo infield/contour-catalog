@@ -1,71 +1,71 @@
 {
-  "packs": [
-    {
-      "attribution": "Tool data courtesy of Amana Tool",
-      "bytes": 19527,
-      "entries": 325,
-      "id": "amana",
-      "kind": "bits",
-      "license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 Amana Tool.",
-      "sha256": "ec2477d218abcd1ff5dc647b54bd3484957d1cee6568b619396e308a53bf29a2",
-      "source": "Amana-Tool-Fusion-Master.tools",
-      "url": "packs/amana-v1.json.gz",
-      "vendor": "Amana Tool",
-      "version": 1
-    },
-    {
-      "attribution": "Tool data courtesy of Bits & Bits",
-      "bytes": 3993,
-      "entries": 60,
-      "id": "bitsbits",
-      "kind": "bits",
-      "license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 Bits & Bits.",
-      "sha256": "3b02d0199ce81cf6fb5b5746b9d1318973c272c975d79520bcfa0a29748669d1",
-      "source": "BitsBits-BitsBits Cutting Tools.json",
-      "url": "packs/bitsbits-v1.json.gz",
-      "vendor": "Bits & Bits",
-      "version": 1
-    },
-    {
-      "attribution": "Work areas from manufacturer specifications (Sienci Labs, Onefinity).",
-      "bytes": 1106,
-      "entries": 12,
-      "id": "machines",
-      "kind": "machines",
-      "license": "Specifications compiled by Contour; trademarks belong to their owners.",
-      "sha256": "53f77c47084143026826ea5c40b4a6a6c42482abef9ca97562b217164bdfb1bd",
-      "source": "resources.sienci.com, onefinitycnc.com (2026-08-23)",
-      "url": "packs/machines-v1.json.gz",
-      "vendor": "Machines",
-      "version": 1
-    },
-    {
-      "attribution": "Tool data courtesy of SpeTool",
-      "bytes": 15491,
-      "entries": 221,
-      "id": "spetool",
-      "kind": "bits",
-      "license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 SpeTool.",
-      "sha256": "4b1b4d3f526a2a41ec51d6d83f15e6d16d4f4b2210c45bb18e0708327f34d6aa",
-      "source": "SpeTool-Fusion-360-Tool-File-Database-251015.tools",
-      "url": "packs/spetool-v2.json.gz",
-      "vendor": "SpeTool",
-      "version": 2
-    },
-    {
-      "attribution": "Tool data courtesy of Whiteside",
-      "bytes": 2529,
-      "entries": 46,
-      "id": "whiteside",
-      "kind": "bits",
-      "license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 Whiteside.",
-      "sha256": "9e91eb2b95055e2674411ce0b028c517fb3de0602146577b4418ad7a7f6080f1",
-      "source": "Whiteside-Router-Bits-Fusion360.tools",
-      "url": "packs/whiteside-v1.json.gz",
-      "vendor": "Whiteside",
-      "version": 1
-    }
-  ],
-  "updated": "2026-08-23T21:55:34Z",
-  "version": 1
+"packs": [
+{
+"attribution": "Tool data courtesy of SpeTool",
+"bytes": 15563,
+"entries": 221,
+"id": "spetool",
+"kind": "bits",
+"license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 SpeTool.",
+"sha256": "ae8114f973f9ff03b8b5d31f7f7f4ca6a1fd26554d17fd72893fef9725ba7f8e",
+"source": "SpeTool-Fusion-360-Tool-File-Database-251015.tools",
+"url": "packs/spetool-v3.json.gz",
+"vendor": "SpeTool",
+"version": 3
+},
+{
+"attribution": "Tool data courtesy of Amana Tool",
+"bytes": 19535,
+"entries": 325,
+"id": "amana",
+"kind": "bits",
+"license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 Amana Tool.",
+"sha256": "075affe48654e36d9e53648b904c5cbaafddfd179f6b08d43239378e566b0b52",
+"source": "Amana-Tool-Fusion-Master.tools",
+"url": "packs/amana-v2.json.gz",
+"vendor": "Amana Tool",
+"version": 2
+},
+{
+"attribution": "Tool data courtesy of Whiteside",
+"bytes": 2535,
+"entries": 46,
+"id": "whiteside",
+"kind": "bits",
+"license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 Whiteside.",
+"sha256": "cf5f22d13f83d9547fdeb1d10b08a3943c9eefdf65badafdccd151d4a5f8ec38",
+"source": "Whiteside-Router-Bits-Fusion360.tools",
+"url": "packs/whiteside-v2.json.gz",
+"vendor": "Whiteside",
+"version": 2
+},
+{
+"attribution": "Tool data courtesy of Bits & Bits",
+"bytes": 3999,
+"entries": 60,
+"id": "bitsbits",
+"kind": "bits",
+"license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 Bits & Bits.",
+"sha256": "4077e6f7f459a257bbdd9bdf9412bc21ba956e15785f353e5991e93c409f2907",
+"source": "BitsBits-BitsBits Cutting Tools.json",
+"url": "packs/bitsbits-v2.json.gz",
+"vendor": "Bits & Bits",
+"version": 2
+},
+{
+"attribution": "Work areas from manufacturer specifications (Sienci Labs, Onefinity).",
+"bytes": 1106,
+"entries": 12,
+"id": "machines",
+"kind": "machines",
+"license": "Specifications compiled by Contour; trademarks belong to their owners.",
+"sha256": "53f77c47084143026826ea5c40b4a6a6c42482abef9ca97562b217164bdfb1bd",
+"source": "resources.sienci.com, onefinitycnc.com (2026-08-23)",
+"url": "packs/machines-v1.json.gz",
+"vendor": "Machines",
+"version": 1
+}
+],
+"updated": "2026-08-24T17:45:37Z",
+"version": 1
 }
