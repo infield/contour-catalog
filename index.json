@@ -53,6 +53,19 @@
       "version": 4
     },
     {
+      "attribution": "Tool data courtesy of Sienci Labs",
+      "bytes": 2244,
+      "entries": 20,
+      "id": "sienci",
+      "kind": "bits",
+      "license": "Redistributed with the vendor's permission, for use in Contour. \u00a9 Sienci Labs.",
+      "sha256": "7908f02416edc6cd239b80430166b235df8e79073839ba476a8cd31c93f7c7c7",
+      "source": "Sienci-Labs-LongMill-MK2-Tools-V1-3.tools",
+      "url": "packs/sienci-v1.json.gz",
+      "vendor": "Sienci Labs",
+      "version": 1
+    },
+    {
       "attribution": "Work areas from manufacturer specifications (Sienci Labs, Onefinity).",
       "bytes": 1106,
       "entries": 12,
@@ -66,6 +79,6 @@
       "version": 1
     }
   ],
-  "updated": "2026-08-25T02:27:43Z",
+  "updated": "2026-10-03T16:50:04Z",
   "version": 1
 }
